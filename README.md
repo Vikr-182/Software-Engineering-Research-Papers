@@ -9,4 +9,4 @@ End Research Paper Submissions of DASS2020
 | 6   	| [Sahil Bhatt](https://github.com/bhattsahil1)     	|
 | 7   	| [Alapan Sau](https://github.com/alapan-sau)     	|
 | 8   	| [Arjun T.H](https://github.com/arjunth2001)     	|
-| 9   	| [Karthik Vishwanathan](https://github.com/nickinack)     	|
+| 9   	| [Karthik Viswanathan](https://github.com/nickinack)     	|
